@@ -1,8 +1,8 @@
-# 🛣️ Road Crack Detection System
+#  Road Crack Detection System
 
 AI-powered web application for automated road crack detection using YOLOv8 segmentation.
 
-## 🚀 Features
+##  Features
 
 - ✅ **Crack Detection** - YOLOv8 segmentation with pixel-perfect masks
 - ✅ **Severity Classification** - LOW → MEDIUM → HIGH → SEVERE
@@ -12,7 +12,7 @@ AI-powered web application for automated road crack detection using YOLOv8 segme
 - ✅ **Admin Dashboard** - Charts and analytics with Matplotlib
 - ✅ **Live Camera Support** - Capture and detect in real-time
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -22,7 +22,7 @@ AI-powered web application for automated road crack detection using YOLOv8 segme
 | Database | SQLite |
 | Reporting | ReportLab, Matplotlib |
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.10+
