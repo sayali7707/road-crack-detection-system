@@ -4,13 +4,13 @@ AI-powered web application for automated road crack detection using YOLOv8 segme
 
 ##  Features
 
-- ✅ **Crack Detection** - YOLOv8 segmentation with pixel-perfect masks
-- ✅ **Severity Classification** - LOW → MEDIUM → HIGH → SEVERE
-- ✅ **Crack Density Score** - 0-100% damage assessment
-- ✅ **GPS Location Tagging** - Track crack locations
-- ✅ **PDF Report Generation** - Professional reports with ReportLab
-- ✅ **Admin Dashboard** - Charts and analytics with Matplotlib
-- ✅ **Live Camera Support** - Capture and detect in real-time
+-  **Crack Detection** - YOLOv8 segmentation with pixel-perfect masks
+-  **Severity Classification** - LOW → MEDIUM → HIGH → SEVERE
+-  **Crack Density Score** - 0-100% damage assessment
+-  **GPS Location Tagging** - Track crack locations
+-  **PDF Report Generation** - Professional reports with ReportLab
+-  **Admin Dashboard** - Charts and analytics with Matplotlib
+-  **Live Camera Support** - Capture and detect in real-time
 
 ##  Tech Stack
 
